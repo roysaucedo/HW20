@@ -1,0 +1,38 @@
+/* Text */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Teko', sans-serif;
+  color: #FA6600;
+}
+
+.lead {
+  font-size: 24px;
+  color: white;
+}
+
+p {
+  font-family: 'Teko', sans-serif;
+  font-size: 24px;
+  color: white;
+}
+
+nav {
+  font-family: 'Teko', sans-serif;
+  font-size: 36px;
+}
+
+.navbar-brand {
+  font-size: 50px;
+}
+
+body {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.jumbotron {
+  background-color: rgb(43, 43, 43);
+}
+
+.logoimages {
+  max-width: 100%;
+}
